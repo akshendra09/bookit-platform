@@ -1,0 +1,6 @@
+# Shared config all services can pull from the config server.
+# Example: logging.level.root: INFO
+logging:
+  level:
+    root: INFO
+    com.bookit: DEBUG
